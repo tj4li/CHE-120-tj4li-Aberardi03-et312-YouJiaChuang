@@ -4,4 +4,4 @@ There is a game within this repository which is a spin on the python game called
 
 Contributions from: tj4li-Aberardi03-et312-YouJiaChuang
 
-# Our game is titled: "Pythons and Dragons!" Hope you enjoy playing it here found in this repository.
+### Our game is titled: "Pythons and Dragons!" Hope you enjoy playing it here found in this repository.
